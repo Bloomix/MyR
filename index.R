@@ -1,0 +1,2 @@
+data(faithful)
+head(faithful)
